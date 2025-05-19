@@ -1,6 +1,10 @@
-# Mental-Ease: Mental-health-detection-using-machine-learning-and-nlp-techniques
+# [🧠 Mental-Ease](https://mental-ease.streamlit.app): Mental Health Detection using Machine Learning and NLP Techniques
 
-### Graduation project for depi round-2, Microsoft machine learning engineer track
+### Graduation project for DEPI Round-2, Microsoft Machine Learning Engineer Track
+
+## 🔗 Try it out:
+👉 [Click here to try the app](https://mental-ease.streamlit.app)
+
 
 ## Motivation behind this project
 
